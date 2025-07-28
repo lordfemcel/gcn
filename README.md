@@ -2,11 +2,11 @@
 
 PyTorch implementation of graph convolutional neural network for semi-supervised classification 2017
 
-# Dataset
+# datasets used
 
 Cora
 
-# Results 
+# results 
 
 | Model          | Test Loss | Test Accuracy |
 |----------------|-----------|---------------|
